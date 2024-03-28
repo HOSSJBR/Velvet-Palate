@@ -1,6 +1,8 @@
 # VELVET PALATE RESTAURANT
 
-![Weatherwiseimg](https://github.com/HOSSJBR/Velvet-Palate/blob/main/assets/images/Restaurant.png).
+![Weatherwiseimg](https://github.com/HOSSJBR/Velvet-Palate/blob/main/assets/images/Restaurant.png)
+
+[Live link to website](https://whackatoad.netlify.app](https://velvetpalate.netlify.app/))
 
 ## Features
 
