@@ -37,10 +37,4 @@ We welcome contributions from the community to enhance our weather application. 
 
 To explore the weather application and access weather forecasts, simply visit the hosted application link provided in the repository description. If you're interested in examining the source code or contributing to the project, clone the repository to your local machine and put your api key in javascript then it works for you.
 
-### Project Status
-
-This project is actively maintained and updated to provide accurate and reliable weather forecasts to users worldwide. We strive to improve the application continuously and welcome feedback from our users and contributors.
-
-Thank you for visiting our repository and using our weather application!
-
 <!-- ******************************************************************************* -->
